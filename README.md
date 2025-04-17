@@ -50,5 +50,5 @@ a steep decline after Season 3, with most TV shows (1,000+) having f3 seasons.
 - **Top 10 content genres** (bar plot).   
 
 ## 🚀 How to Use  
-1. Clone repo: `git clone [repo-link]`  
-2. Run Jupyter Notebook: `jupyter notebook netflix-analysis.ipynb`  
+1. Clone repo: `git clone [Netflix_DA_project.ipynb]`  
+2. Run Jupyter Notebook: `[jupyter notebook netflix-analysis.ipynb](https://drive.google.com/file/d/1niPizWXiBglQxivxlWYpUPuLza_zzx1g/view?usp=drive_link)`  
