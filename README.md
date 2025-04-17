@@ -9,7 +9,7 @@ This project aims to analyze **Netflix’s content library** (movies/TV shows) t
 - Provide **data-driven recommendations** for content strategy.  
 
 ## 📂 Dataset  
-- **Source:** [Google Drive File Netflix Dataset]((https://drive.google.com/file/d/1rV3yS1dQmQL0EuStVt0dt070Gez4ORGg/view?usp=drive_link))  
+- **Source:** [Google Drive File Netflix Dataset](https://drive.google.com/file/d/1rV3yS1dQmQL0EuStVt0dt070Gez4ORGg/view?usp=drive_link) 
 - **Features:** 'Show id','Type','Title','Director','Country','Date Added','Release Year','Rating','Duration','Listed In'.  
 
 ## 🛠️ Tools & Libraries  
